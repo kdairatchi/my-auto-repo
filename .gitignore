@@ -1,0 +1,11 @@
+# Ignore backups and logs
+*.bak
+*.log
+backups/
+logs/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore environment files
+.env
